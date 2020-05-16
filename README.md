@@ -1,4 +1,4 @@
 # Bravesqueak
 Bravesqueak website.
 
-https://sprintingkiwi.github.io/BravesqueakStudio/
+https://sprintingkiwi.github.io/bravesqueak/
